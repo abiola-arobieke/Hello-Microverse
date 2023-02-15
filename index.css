@@ -1,12 +1,13 @@
- body {
-      box-sizing: border-box;
-      font-family: Arial, Helvetica, sans-serif;
-     }
+body {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+ }
 
  h1 {
-      color: #fff;
-      border-radius: 5px;
-      padding: 10px 0;
-      text-align: center;
-      background: #0909ab 20px 50% linear-gradient(#2a2ad2, #08089b);
-} 
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 0;
+    text-align: center;
+    background: #0909ab 20px 50% linear-gradient(#2a2ad2, #08089b);
+ }
+
