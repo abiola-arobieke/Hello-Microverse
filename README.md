@@ -48,7 +48,7 @@
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo Link [coming soon...]](#)
+- [Live Demo Link](https://abiola-arobieke.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
