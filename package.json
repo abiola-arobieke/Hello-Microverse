@@ -524,7 +524,7 @@
   },
   "scripts": {
     "lintHtml": "npx hint .",
-    "lintCss": "npx stylelint '**/*.{css,scss}' --fix",
+    "lintCss": "npx stylelint '**/*.{css,scss}' ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
